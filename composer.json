@@ -1,0 +1,24 @@
+{
+    "name": "nweb/image",
+    "description": "Nweb Image",
+    "keywords": ["image", "gd", "imagemagic", "imagic],
+    "homepage": "https://github.com/nwebcode/image",
+    "type": "library",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Krzysztof Kardasz",
+            "email": "krzysztof@kardasz.eu",
+            "homepage": "http://kardasz.eu"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "suggest": {
+        "nweb/framework": "Framework"
+    },
+    "autoload": {
+        "psr-0": {"Nweb\\Image\\": "src/"}
+    }
+}
