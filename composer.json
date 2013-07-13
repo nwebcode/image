@@ -1,7 +1,7 @@
 {
     "name": "nweb/image",
     "description": "Nweb Image",
-    "keywords": ["image", "gd", "imagemagic", "imagic],
+    "keywords": ["image", "gd", "imagemagic", "imagic"],
     "homepage": "https://github.com/nwebcode/image",
     "type": "library",
     "license": "LGPL-3.0+",
